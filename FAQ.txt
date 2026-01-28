@@ -1,0 +1,26 @@
+hello=Hello! How can I help you?
+hi=Hi there!
+how are you=I am fine. How about you?
+what is ai=Artificial Intelligence is the simulation of human intelligence.
+what is chatbot=A chatbot is a computer program that simulates conversation.
+what is java=Java is an object-oriented programming language.what is india=India is a country in South Asia.
+who is mahatma gandhi=Mahatma Gandhi was the father of the Indian nation.
+what is computer=A computer is an electronic machine that processes data.
+what is java=Java is an object-oriented programming language.
+what is ai=Artificial Intelligence makes machines intelligent.
+what is science=Science is the study of nature and experiments.
+what is history=History is the study of past events.
+capital of india=The capital of India is New Delhi.
+what is physics=Physics studies matter and energy.
+what is economy=Economy deals with production and consumption of goods.what is ai=Artificial Intelligence is the simulation of human intelligence in machines.
+define artificial intelligence=Artificial Intelligence enables machines to think and learn.
+what are types of ai=Types of AI are Narrow AI, General AI and Super AI.
+what is machine learning=Machine Learning is a subset of AI that allows systems to learn from data.
+what is deep learning=Deep Learning is a part of machine learning using neural networks.
+what is nlp=Natural Language Processing helps machines understand human language.
+what is chatbot=A chatbot is an AI application that interacts with humans.
+applications of ai=AI is used in healthcare, banking, education, robotics and automation.
+advantages of ai=AI improves efficiency, accuracy and automation.
+disadvantages of ai=AI may cause job loss and high development cost.
+bye=Goodbye! Have a nice day.
+thanks=You're welcome!
